@@ -15,21 +15,8 @@ Public Domain
 
 Author: Shaddim; original CC license symbols by Creative Commons. Extracted from [here](https://creativecommons.org/share-your-work/public-domain/freeworks).
 
-### CC BY-SA 4.0
+### Resources
 
-Attribution-ShareAlike 4.0 International
-
-1. resources:
-   1. [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/);
-   2. [Choose a License](https://choosealicense.com/licenses/cc-by-sa-4.0/);
-2. free to:
-   1. share
-   2. adapt
-3. under the following terms:
-   1. attribution:
-      1. give appropriate credit;
-      2. provide a link to the license;
-   2. state changes:
-      1. indicate if changes were made;
-   3. share alike:
-      1. distribute under the same license or a compatible one;
+1. [Creative Commons - Website](https://creativecommons.org/);
+2. [Creative Commons - Licenses](https://creativecommons.org/about/cclicenses/);
+3. [Creative Commons - Choose a License](https://creativecommons.org/choose/);

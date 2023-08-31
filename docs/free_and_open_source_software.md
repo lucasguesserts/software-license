@@ -64,4 +64,10 @@ See the references for further discussion on the topic. Check out also the [sect
    2. [Digital Ocean - The Difference Between Free and Open-Source Software](https://www.digitalocean.com/community/conceptual-articles/free-vs-open-source-software);
    3. [Red Hat - What's the difference between open source software and free software?](/article/17/11/open-source-or-free-software);
    4. [Geeks for Geeks - Difference between Free Software and Open Source Software](https://www.geeksforgeeks.org/difference-between-free-software-and-open-source-software/);
-   5. [Wikipedia - Comparison of free and open-source software licenses- Approvals](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses#Approvals)
+   5. [Wikipedia - Comparison of free and open-source software licenses- Approvals](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses#Approvals);
+5. Nice explanations:
+   1. [A dev’s guide to open source software licensing](https://github.com/readme/guides/open-source-licensing);
+   2. [Software Licenses in Plain English](https://www.tldrlegal.com/);
+6. Tools for choosing a license:
+   1. [Choose an open source license](https://choosealicense.com/);
+   2. [Licence differentiator](http://oss-watch.ac.uk/apps/licdiff/);
